@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "testPodAlert"
-  s.version      = "0.0.1"
+  s.version      = "v0.0.2"
   s.summary      = "简单描述一句话."
 
   s.description  = <<-DESC
